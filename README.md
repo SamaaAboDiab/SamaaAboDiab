@@ -5,7 +5,8 @@
 ## 👩‍💻 About Me
 I'm a **Front-End Developer** who turns UI/UX designs into responsive, user-friendly web apps with **React.js**. I always design from the user's side: what they need, where they'll look, and how to get them there.
 
-- 🎓 **Business Information Systems** graduate (Very Good with Honors), now studying a **Postgraduate Diploma in Computer Science** at Beni Suef University
+- 🎓 **Business Information Systems** graduate (Very Good with Honors, **Excellent in final year**). My graduation project, *Traveler Store*, was graded **Excellent**, and I built its front-end
+- 📚 Now studying a **Postgraduate Diploma in Computer Science** at Beni Suef University
 - 👥 Led a front-end team as **Team Lead** to build *Mali*, a personal finance app, at Habib Academy
 - 💼 Freelance Front-End Developer on Mostaql
 - 🌱 Currently learning **Next.js**
@@ -19,6 +20,7 @@ I'm a **Front-End Developer** who turns UI/UX designs into responsive, user-frie
 |---|---|---|
 | **Petly** | A pet marketplace with smooth animations, a Ctrl+K quick search, cart, favorites and dark mode | [petly-pets.vercel.app](https://petly-pets.vercel.app) |
 | **Mali \| مالي** | A bilingual (AR/EN) personal finance app: budgets, goals, transactions and reports. Built with my team as Team Lead | [mali-web-project.vercel.app](https://mali-web-project.vercel.app) |
+| **Traveler Store** | My graduation project (graded Excellent): a travel gear store with cart, wishlist, orders and a full admin dashboard | [react-traveler.vercel.app](https://react-traveler.vercel.app) |
 | **Anti** | A calm, modern furniture store with room filters, product pages and a smart cart | [antistore.vercel.app](https://antistore.vercel.app) · [code](https://github.com/SamaaAboDiab/anti_store) |
 
 ---
