@@ -16,16 +16,16 @@ I'm a **Front-End Developer** who turns UI/UX designs into responsive, user-frie
 
 ## <img src="icons/star.svg" width="24" align="top" alt="" /> Featured Projects
 
-### Petly · [petly-pets.vercel.app](https://petly-pets.vercel.app)
+### Petly | [petly-pets.vercel.app](https://petly-pets.vercel.app)
 A pet marketplace where people list, browse and buy pets, with smooth animations, a Ctrl+K quick search, cart, favorites and dark mode.
 
-### Mali | مالي · [mali-web-project.vercel.app](https://mali-web-project.vercel.app)
+### Mali | [mali-web-project.vercel.app](https://mali-web-project.vercel.app)
 A bilingual (AR/EN) personal finance app for budgets, goals, transactions and reports. Built with my team, where I was the front-end Team Lead.
 
-### Traveler Store · [react-traveler.vercel.app](https://react-traveler.vercel.app)
+### Traveler Store | [react-traveler.vercel.app](https://react-traveler.vercel.app)
 My graduation project (graded Excellent): a travel gear store with a cart, wishlist, orders and a full admin dashboard.
 
-### Anti · [antistore.vercel.app](https://antistore.vercel.app)
+### Anti | [antistore.vercel.app](https://antistore.vercel.app)
 A calm, modern furniture store with room filters, detailed product pages and a smart cart.
 
 ---
