@@ -2,19 +2,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Samaa%20Abo%20Diab&fontSize=70" alt="Header Banner" />
 </div>
 
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23D4537E&width=26" width="26" align="center" alt="" /> About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23D4537E&width=24" width="24" align="top" alt="" /> About Me
 I'm a **Front-End Developer** who turns UI/UX designs into responsive, user-friendly web apps with **React.js**. I always design from the user's side: what they need, where they'll look, and how to get them there.
 
-- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23D4537E&width=18" width="18" align="center" alt="" /> **Business Information Systems** graduate (Very Good with Honors, **Excellent in final year**). My graduation project, *Traveler Store*, was graded **Excellent**, and I built its front-end
-- <img src="https://api.iconify.design/lucide/book-open.svg?color=%23D4537E&width=18" width="18" align="center" alt="" /> Now studying a **Postgraduate Diploma in Computer Science** at Beni Suef University
-- <img src="https://api.iconify.design/lucide/users.svg?color=%23D4537E&width=18" width="18" align="center" alt="" /> Led a front-end team as **Team Lead** to build *Mali*, a personal finance app, at Habib Academy
-- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23D4537E&width=18" width="18" align="center" alt="" /> Freelance Front-End Developer on Mostaql
-- <img src="https://api.iconify.design/lucide/sprout.svg?color=%23D4537E&width=18" width="18" align="center" alt="" /> Currently learning **Next.js**
-- <img src="https://api.iconify.design/lucide/rocket.svg?color=%23D4537E&width=18" width="18" align="center" alt="" /> Open to **Remote / Hybrid / Full-time** Front-End roles
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23D4537E&width=17" width="17" align="top" alt="" /> **Business Information Systems** graduate (Very Good with Honors, **Excellent in final year**). My graduation project, *Traveler Store*, was graded **Excellent**, and I built its front-end
+- <img src="https://api.iconify.design/lucide/book-open.svg?color=%23D4537E&width=17" width="17" align="top" alt="" /> Now studying a **Postgraduate Diploma in Computer Science** at Beni Suef University
+- <img src="https://api.iconify.design/lucide/users.svg?color=%23D4537E&width=17" width="17" align="top" alt="" /> Led a front-end team as **Team Lead** to build *Mali*, a personal finance app, at Habib Academy
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23D4537E&width=17" width="17" align="top" alt="" /> Freelance Front-End Developer on Mostaql
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%23D4537E&width=17" width="17" align="top" alt="" /> Currently learning **Next.js**
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%23D4537E&width=17" width="17" align="top" alt="" /> Open to **Remote / Hybrid / Full-time** Front-End roles
 
 ---
 
-## <img src="https://api.iconify.design/lucide/star.svg?color=%23D4537E&width=26" width="26" align="center" alt="" /> Featured Projects
+## <img src="https://api.iconify.design/lucide/star.svg?color=%23D4537E&width=24" width="24" align="top" alt="" /> Featured Projects
 
 | Project | What it is | Live |
 |---|---|---|
@@ -25,7 +25,7 @@ I'm a **Front-End Developer** who turns UI/UX designs into responsive, user-frie
 
 ---
 
-## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23D4537E&width=26" width="26" align="center" alt="" /> Tech Stack & Skills
+## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23D4537E&width=24" width="24" align="top" alt="" /> Tech Stack & Skills
 <div align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -58,7 +58,7 @@ I'm a **Front-End Developer** who turns UI/UX designs into responsive, user-frie
 
 ---
 
-## <img src="https://api.iconify.design/lucide/message-circle.svg?color=%23D4537E&width=26" width="26" align="center" alt="" /> Connect with Me
+## <img src="https://api.iconify.design/lucide/message-circle.svg?color=%23D4537E&width=24" width="24" align="top" alt="" /> Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/samaa-abo-diab" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
