@@ -18,7 +18,7 @@ I'm a **Front-End Developer** who turns UI/UX designs into responsive, user-frie
 
 | Project | What it is | Live |
 |---|---|---|
-| **Petly** | A pet marketplace with smooth animations, a Ctrl+K quick search, cart, favorites and dark mode | [petly-pets.vercel.app](https://petly-pets.vercel.app) |
+| **Petly** | A pet marketplace with smooth animations, a Ctrl+K quick search, cart, favorites and dark mode | [petly-pets.vercel.app](https://petly-pets.vercel.app) · [code](https://github.com/SamaaAboDiab/petly) |
 | **Mali \| مالي** | A bilingual (AR/EN) personal finance app: budgets, goals, transactions and reports. Built with my team as Team Lead | [mali-web-project.vercel.app](https://mali-web-project.vercel.app) |
 | **Traveler Store** | My graduation project (graded Excellent): a travel gear store with cart, wishlist, orders and a full admin dashboard | [react-traveler.vercel.app](https://react-traveler.vercel.app) |
 | **Anti** | A calm, modern furniture store with room filters, product pages and a smart cart | [antistore.vercel.app](https://antistore.vercel.app) · [code](https://github.com/SamaaAboDiab/anti_store) |
