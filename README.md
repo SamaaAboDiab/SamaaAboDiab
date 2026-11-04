@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Samaa%20Abo%20Diab&fontSize=70" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4537E&fontColor=ffffff&height=200&section=header&text=Samaa%20Abo%20Diab&fontSize=70" alt="Header Banner" />
 </div>
 
 ## <img src="icons/user-round.svg" width="24" align="top" alt="" /> About Me
