@@ -28,6 +28,12 @@ My graduation project (graded Excellent): a travel gear store with a cart, wishl
 ### Anti | [antistore.vercel.app](https://antistore.vercel.app)
 A calm, modern furniture store with room filters, detailed product pages and a smart cart.
 
+### Maison Vell | [maison-vell-v1.vercel.app](https://maison-vell-v1.vercel.app)
+A luxury fashion house website built like a runway: drag or use the arrow keys to bring each look forward, with a 26-look lookbook, a shop with filters and sorting, and a saved bag.
+
+### Al-Ru'ya | [al-ruya.vercel.app](https://al-ruya.vercel.app)
+A bilingual (AR/EN) platform that organizes children's visits and schedules after separation, with a typed API and shared validation.
+
 ---
 
 ## <img src="icons/code-xml.svg" width="24" align="top" alt="" /> Tech Stack & Skills
